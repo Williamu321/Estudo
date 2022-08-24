@@ -1,0 +1,1 @@
+''' este arquivo faz aprte da aula 30 '''

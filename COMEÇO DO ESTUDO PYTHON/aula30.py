@@ -1,0 +1,1 @@
+'''Chegar o arquivo "vendas"'''
